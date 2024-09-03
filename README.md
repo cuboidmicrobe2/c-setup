@@ -37,6 +37,12 @@ sudo apt install zsh
 
 Then "Oh My Zsh" can be installed.
 
+```shell
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" -y
+```
+
+Reboot the computer/Close down the WSL terminal after the shell has been installed.
+
 ## Setup git
 
 Git must be set up with your name e.g. Sebastian Einarsson, email, and the default name of newly initialized branches (preferably "main" by the new standard).
