@@ -83,6 +83,6 @@ When prompted to **Select Additional Tasks** during installation, be sure to che
 
 When VS Code has been downloaded, install the following extensions.
 
-![Extensions]("Extensions.png")
+![Extensions]("https://github.com/cuboidmicrobe2/c-setup/blob/main/Extensions.png")
 
 The VS code extensions can be installed as you wish.
